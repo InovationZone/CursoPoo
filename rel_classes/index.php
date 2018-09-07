@@ -1,5 +1,7 @@
 <?php
     require_once 'Lutador.php';
+    require_once 'Luta.php';
+
 
     $l = array();
 
@@ -17,9 +19,12 @@
         105.7,  12, 2, 4);
 
 
-    $l[0]->perderLuta();
-    $l[0]->apresentar();
-    $l[0]->status();
+    $UEC01 = new Luta();
+    $UEC01->marcarLuta($l[1] , $l[2]);
+    $UEC01->lutar();
+    //$l[0]->ganharLuta();
+    //$l[0]->apresentar();
+    //$l[0]->status();
 
 
 
