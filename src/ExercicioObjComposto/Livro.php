@@ -5,7 +5,7 @@
  * Date: 07/09/2018
  * Time: 18:15
  */
-require_once "Publicacao.php";
+namespace InovationZone\Poo\ExercicioObjComposto;
 
 class Livro implements Publicacao
 {
@@ -16,8 +16,7 @@ class Livro implements Publicacao
     private $aberto;
     private $leitor;
 
-
-    public function __construct($titulo , $autor , $totPaginas , $leitor)
+    public function __construct($titulo, $autor, $totPaginas, $leitor)
     {
         $this->titulo = $titulo;
         $this->autor = $autor;
@@ -27,7 +26,8 @@ class Livro implements Publicacao
         $this->leitor = $leitor;
     }
 
-    public function detalhes() {
+    public function detalhes()
+    {
         echo $this->titulo . "</br>";
         echo $this->autor . "</br>";
         echo $this->totPaginas . "</br>";
@@ -145,7 +145,7 @@ class Livro implements Publicacao
 
     public function folhear($p)
     {
-        if($this->pagAtual > $this->totPaginas) {
+        if ($this->pagAtual > $this->totPaginas) {
             $this->pagAtual = 0;
         } else {
             $this->pagAtual = $p;

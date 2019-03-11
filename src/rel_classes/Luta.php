@@ -6,7 +6,7 @@
  * Time: 16:42
  */
 
-require_once ("Lutador.php");
+require_once("Lutador.php");
 
 class Luta
 {

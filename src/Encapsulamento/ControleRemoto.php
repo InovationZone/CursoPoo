@@ -1,6 +1,6 @@
 <?php
-    require_once 'Controlador.php';
 
+namespace InovationZone\Poo\Encapsulamento;
 
 class ControleRemoto implements Controlador
 {
@@ -35,18 +35,15 @@ class ControleRemoto implements Controlador
         $this->ligado = $ligado;
     }
 
-
     private function isTocando()
     {
         return $this->tocando;
     }
 
-
     private function setTocando($tocando)
     {
         $this->tocando = $tocando;
     }
-
 
     public function ligar()
     {
@@ -64,7 +61,7 @@ class ControleRemoto implements Controlador
         echo "<br>Está tocando?:" .  ($this->isTocando() ? 'SIM' : 'NÃO');
         echo "<br>Volume:" . $this->getVolume();
 
-        for($i=0;$i <= $this->getVolume();$i+=10) {
+        for ($i=0; $i <= $this->getVolume(); $i+=10) {
             echo "|";
         }
 
@@ -73,12 +70,12 @@ class ControleRemoto implements Controlador
 
     public function fecharMenu()
     {
-       echo "</br>Fechando menu...";
+        echo "Fechando menu... </br>";
     }
 
     public function maisVolume()
     {
-        if($this->isLigado()){
+        if ($this->isLigado()) {
             $this->setVolume($this->getVolume()+ 5);
         } else {
             echo "erro! desligado";
@@ -87,40 +84,38 @@ class ControleRemoto implements Controlador
 
     public function menosVolume()
     {
-       if($this->isLigado()) {
-           $this->setVolume($this->getVolume() - 5);
-       } else {
-           echo "erro! desligado";
-
-       }
+        if ($this->isLigado()) {
+            $this->setVolume($this->getVolume() - 5);
+        } else {
+            echo "erro! desligado";
+        }
     }
 
     public function ligarMudo()
     {
-        if($this->isLigado() && $this->getVolume() > 0){
+        if ($this->isLigado() && $this->getVolume() > 0) {
             $this->setVolume(0);
         }
     }
 
     public function desligarMudo()
     {
-        if($this->ligado && $this->getVolume() == 0) {
+        if ($this->ligado && $this->getVolume() == 0) {
             $this->setVolume(50);
         }
     }
 
     public function play()
     {
-        if($this->isLigado() && !($this->isTocando())) {
+        if ($this->isLigado() && !($this->isTocando())) {
             $this->setTocando(true);
         }
     }
 
     public function pause()
     {
-        if($this->isLigado() && $this->isTocando()){
-
-    }
-
+        if ($this->isLigado() && $this->isTocando()) {
+            echo "pausado";
+        }
     }
 }

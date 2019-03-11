@@ -5,6 +5,7 @@
  * Date: 07/09/2018
  * Time: 18:02
  */
+namespace InovationZone\Poo\ExercicioObjComposto;
 
 class Pessoa
 {
