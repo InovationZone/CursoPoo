@@ -31,7 +31,7 @@ class Livro implements Publicacao
         echo $this->titulo . "</br>";
         echo $this->autor . "</br>";
         echo $this->totPaginas . "</br>";
-        echo $this->leitor . "</br>";
+        echo $this->leitor->getNome() . "</br>";
     }
 
     /**

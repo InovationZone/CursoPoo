@@ -1,7 +1,7 @@
 <?php
 namespace InovationZone\Poo\ExercicioObjComposto;
 
-interface   Publicacao
+interface Publicacao
 {
     public function abrir();
     public function fechar();
