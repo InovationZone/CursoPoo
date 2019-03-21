@@ -1,40 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a252160-be03-4ffe-97c9-baae8ed5a9d0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/poo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/poo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExercicioObjComposto/Livro.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExercicioObjComposto/Livro.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExercicioObjComposto/Publicacao.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExercicioObjComposto/Publicacao.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExercicioObjComposto/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExercicioObjComposto/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heranca/Aluno.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Heranca/Aluno.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heranca/Funcionario.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Heranca/Funcionario.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heranca/Pessoa.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Heranca/Pessoa.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heranca/Professor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Heranca/Professor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heranca/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Heranca/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heranca2/Aluno.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Heranca2/Aluno.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heranca2/Bolsista.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Heranca2/Bolsista.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heranca2/Pessoa.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Heranca2/Pessoa.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heranca2/Visitante.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Heranca2/Visitante.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heranca2/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Heranca2/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polimorfismo/Animal.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polimorfismo/Animal.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polimorfismo/Ave.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polimorfismo/Ave.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polimorfismo/Cachorro.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polimorfismo/Cachorro.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polimorfismo/Mamifero.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polimorfismo/Mamifero.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polimorfismo/Peixe.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polimorfismo/Peixe.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polimorfismo/Reptil.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polimorfismo/Reptil.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polimorfismo/Tubarao.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polimorfismo/Tubarao.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polimorfismo/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polimorfismo/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/projeto/AcoesVideo.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projeto/AcoesVideo.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/projeto/Aluno.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projeto/Aluno.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/projeto/Pessoa.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projeto/Pessoa.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/projeto/Video.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projeto/Video.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/projeto/Visualizacao.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projeto/Visualizacao.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/projeto/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projeto/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rel_classes/Luta.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/RelClasses/Luta.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rel_classes/Lutador.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/RelClasses/Lutador.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rel_classes/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/RelClasses/index.php" afterDir="false" />
-    </list>
+    <list default="true" id="0a252160-be03-4ffe-97c9-baae8ed5a9d0" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,26 +12,7 @@
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RelClasses/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/RelClasses/Luta.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="8" selection-start-line="8" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -80,7 +28,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/heranca/Aluno.php" />
         <option value="$PROJECT_DIR$/heranca/Funcionario.php" />
         <option value="$PROJECT_DIR$/heranca/index.php" />
         <option value="$PROJECT_DIR$/heranca2/Pessoa.php" />
@@ -129,8 +76,9 @@
         <option value="$PROJECT_DIR$/src/Projeto/index.php" />
         <option value="$PROJECT_DIR$/src/rel_classes/index.php" />
         <option value="$PROJECT_DIR$/src/rel_classes/Luta.php" />
-        <option value="$PROJECT_DIR$/src/RelClasses/Luta.php" />
+        <option value="$PROJECT_DIR$/src/RelClasses/index.php" />
         <option value="$PROJECT_DIR$/src/RelClasses/Lutador.php" />
+        <option value="$PROJECT_DIR$/src/RelClasses/Luta.php" />
       </list>
     </option>
   </component>
@@ -162,12 +110,6 @@
               <item name="poo" type="b2602c69:ProjectViewProjectNode" />
               <item name="poo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="poo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="poo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="RelClasses" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="poo" type="b2602c69:ProjectViewProjectNode" />
@@ -224,18 +166,17 @@
       <workItem from="1552318393390" duration="1570000" />
       <workItem from="1553175140769" duration="3281000" />
       <workItem from="1553178757833" duration="20000" />
-      <workItem from="1553178835496" duration="1077000" />
+      <workItem from="1553178835496" duration="1355000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19110000" />
+    <option name="totallyTimeSpent" value="19388000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="-2" width="1280" height="675" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20745543" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20745543" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -248,7 +189,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32967034" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32967034" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -485,16 +426,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Projeto/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#148#191#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Polimorfismo/Animal.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -509,24 +440,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RelClasses/index.php">
+    <entry file="file://$PROJECT_DIR$/src/Projeto/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="52" />
+          <folding>
+            <element signature="e#148#191#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RelClasses/Lutador.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3079">
-          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        <state relative-caret-position="206">
+          <caret line="234" column="4" selection-start-line="234" selection-start-column="4" selection-end-line="234" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RelClasses/Luta.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="8" selection-start-line="8" selection-end-line="9" />
+        <state relative-caret-position="390">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RelClasses/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+          <folding>
+            <element signature="e#61#102#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
